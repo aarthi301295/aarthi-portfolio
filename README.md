@@ -15,13 +15,6 @@ Open http://localhost:3000
 
 Open `app/page.tsx` and replace at the top:
 
-```ts
-const GITHUB_URL = "https://github.com/your-username";
-const EMAIL = "your-email@example.com";
-```
-
-That's the only mandatory change. Everything else — copy, colors, layout — is in the same file.
-
 ## Deploy to Vercel
 
 ```bash
