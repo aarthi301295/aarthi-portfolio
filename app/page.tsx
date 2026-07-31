@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 // TODO: replace with your real links before deploying
-const GITHUB_URL = "https://github.com/your-username";
-const EMAIL = "your-email@example.com";
+const GITHUB_URL = "https://github.com/aarthi301295";
+const EMAIL = "aarthi301295@gmail.com";
 
 export default function Home() {
   return (
